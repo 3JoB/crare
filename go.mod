@@ -9,7 +9,7 @@ require (
 	github.com/3JoB/ulib v1.39.0
 	github.com/3JoB/unsafeConvert v1.6.0
 	github.com/cornelk/hashmap v1.0.8
-	github.com/goccy/go-yaml v1.11.2
+	github.com/goccy/go-yaml v1.11.3
 	github.com/grafana/regexp v0.0.0-20221122212121-6b5c0a4cb7fd
 	github.com/jamiealquiza/fnv v1.0.0
 	github.com/rs/zerolog v1.32.0
