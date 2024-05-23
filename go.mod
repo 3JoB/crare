@@ -16,7 +16,7 @@ require (
 	github.com/spf13/viper v1.18.1
 	github.com/stretchr/testify v1.9.0
 	github.com/sugawarayuuta/sonnet v0.0.0-20231004000330-239c7b6e4ce8
-	github.com/valyala/fasthttp v1.53.0
+	github.com/valyala/fasthttp v1.54.0
 	golang.org/x/text v0.15.0
 )
 
