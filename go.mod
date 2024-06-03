@@ -1,6 +1,8 @@
 module gopkg.in/crare.v1
 
 go 1.21.4
+toolchain go1.22.3
+
 require (
 	github.com/3JoB/atreugo-realip v0.0.2
 	github.com/3JoB/maxminddb-golang v0.0.2
@@ -13,7 +15,7 @@ require (
 	github.com/jamiealquiza/fnv v1.0.0
 	github.com/rs/zerolog v1.33.0
 	github.com/savsgio/atreugo/v11 v11.13.1
-	github.com/spf13/viper v1.18.1
+	github.com/spf13/viper v1.19.0
 	github.com/stretchr/testify v1.9.0
 	github.com/sugawarayuuta/sonnet v0.0.0-20231004000330-239c7b6e4ce8
 	github.com/valyala/fasthttp v1.54.0
@@ -39,7 +41,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/onsi/ginkgo/v2 v2.13.1 // indirect
-	github.com/pelletier/go-toml/v2 v2.1.0 // indirect
+	github.com/pelletier/go-toml/v2 v2.2.2 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/quic-go/qpack v0.4.0 // indirect
 	github.com/quic-go/quic-go v0.42.0 // indirect
