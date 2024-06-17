@@ -1,5 +1,5 @@
-github.com/3JoB/atreugo-realip v0.0.2 h1:GRunrsTPR4HeIIYwQrjChZursES+c/kyQ7wB8xJuMz0=
-github.com/3JoB/atreugo-realip v0.0.2/go.mod h1:xPX6iLtw0/l9ka/gOn67ni9j7lVZ5B7wX0RpW4TKZj8=
+github.com/3JoB/atreugo-realip v0.0.3 h1:aG/+RBzP7R1hBiSbDI1yOA/GbzqNoifRZOAhi6w75D4=
+github.com/3JoB/atreugo-realip v0.0.3/go.mod h1:n7dXQSk8xUES7RwXZ+ZX2P/l/5PjSe1HZYzavURSVks=
 github.com/3JoB/brotli v0.0.1 h1:ugJsMozj0PN2AyMYQGpK14c15LzW85BM2LiT99y8PrQ=
 github.com/3JoB/brotli v0.0.1/go.mod h1:sVglhBA8+BXimQTYS472Olg0f9Ftc6Df3g27yiWzDNI=
 github.com/3JoB/go-reflect v1.0.2 h1:1vjO7yj0k9Hr4pAKh2ngQ5nKHSqeJJmMlSr8MRmau7o=
