@@ -4,7 +4,7 @@ go 1.21.4
 toolchain go1.22.4
 
 require (
-	github.com/3JoB/atreugo-realip v0.0.2
+	github.com/3JoB/atreugo-realip v0.0.3
 	github.com/3JoB/maxminddb-golang v0.0.2
 	github.com/3JoB/resty-ilo v1.5.0
 	github.com/3JoB/ulib v1.40.0
