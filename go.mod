@@ -10,7 +10,7 @@ require (
 	github.com/3JoB/ulib v1.40.0
 	github.com/3JoB/unsafeConvert v1.6.0
 	github.com/cornelk/hashmap v1.0.8
-	github.com/goccy/go-yaml v1.12.0
+	github.com/goccy/go-yaml v1.15.6
 	github.com/grafana/regexp v0.0.0-20221122212121-6b5c0a4cb7fd
 	github.com/jamiealquiza/fnv v1.0.0
 	github.com/rs/zerolog v1.33.0
@@ -29,7 +29,6 @@ require (
 	github.com/andybalholm/brotli v1.1.1 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/fasthttp/router v1.5.2 // indirect
-	github.com/fatih/color v1.16.0 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/goccy/go-reflect v1.2.0 // indirect
@@ -64,7 +63,6 @@ require (
 	golang.org/x/net v0.30.0 // indirect
 	golang.org/x/sys v0.26.0 // indirect
 	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
-	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	lukechampine.com/frand v1.4.2 // indirect
